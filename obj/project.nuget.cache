@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FrF1967CP7xlEMur1gPUNFvxa5HQmUtJGSEcJ7BqvsxYa5znvwUpqPwqXrdZoFhKGrXw9rs5SPxND7dARVfVEw==",
+  "dgSpecHash": "hy2L2VUewyh9O1AljX/3XAcsTryTdaIe2twGit6IA9OFcGz98hapkaix9lUy/7aoLTa0m7M4AuqpMlxI8Qt6ug==",
   "success": true,
   "projectFilePath": "C:\\Users\\bilal.bandic\\Desktop\\Work_Progress\\WOODZ4U-Summary-report\\WOODZ4U-Summary-report.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bilal.bandic\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
